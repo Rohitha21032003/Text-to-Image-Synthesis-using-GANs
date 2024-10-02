@@ -7,5 +7,5 @@ The Encoders from AttnGAN can be stored in DAMSMencoders/birds/
 
 The trained model can be stored in models/
 
-After Training the model with the dataset, we can run the guirun.py file in our command prompt to see a GUI where we can type our text to get the corresponding image.
+After Training the model with the dataset, we can run the guirun.py or guirun1.py (for better gui view) file in our command prompt to see a GUI where we can type our text to get the corresponding image.
 
